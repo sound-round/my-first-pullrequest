@@ -214,3 +214,4 @@ This too shall pass
 lets try to do something useful and change our life
 
 Memento mori
+Жизнь — это чудесное приключение, достойное того, чтобы ради удач терпеть и неудачи.
